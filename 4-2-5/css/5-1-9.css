@@ -11,8 +11,8 @@
 	/*display: flex;*/
 	justify-content: space-between;
 	align-items: center;
-	background:#333;
-	color:#fff;
+	background:#600;
+	color:#090;
 	text-align: center;
 	padding: 20px;
 }
@@ -64,6 +64,7 @@ nav ul{
     /*2階層目の基点にするためrelativeを指定*/
 	position: relative;
 	list-style: none;
+	display: flex;
 	justify-content: center;
 }
 
